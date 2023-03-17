@@ -63,5 +63,28 @@
         "diskripsi" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "type" : "dessert"
     }
-]
+],
+ "promo":[
+    {
+        "id" : 1,
+        "nama" : "promo 1",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/slider%201.jpg",
+        "diskripsi" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "type" : "food"
+    },
+     {
+        "id" : 2,
+        "nama" : "promo 2",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/slider%202.jpg",
+        "diskripsi" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "type" : "food"
+    },
+     {
+        "id" : 3,
+        "nama" : "promo 3",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/slider%203.jpg",
+        "diskripsi" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "type" : "food"
+    },
+   ]
 }
