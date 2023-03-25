@@ -86,5 +86,29 @@
         "diskripsi" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
        
     }
+   ],
+ "Service":[
+    {
+        "id" : 1,
+        "nama" : "Paket Chatering",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketChatering.png",
+        "diskripsi" : "Paket chatering berisi 2 macam paket makanan untuk paket A yaitu nasi 3 sayur 1 buah dan paket B yaitu nasi 2 sayuran 2 buah,
+                       "
+        
+    },
+     {
+        "id" : 2,
+        "nama" : "Paket Ultah",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketUltah.png",
+        "diskripsi" : "Paket ultah nanti disediakan tempat untuk ultah dan ada hiburan badut serta dekor ultah sesuai request"
+      
+    },   {
+        "id" : 3,
+        "nama" : "Paket Wedding",
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketWedding.png",
+        "diskripsi" : "chatering wedding terdapat beberapa macam paket , paket murah 100 porsi 3 jenis makanan 1 minuman + tempat makan, paket sedang 	   untuk 200 porsi 4 jenis makanan 2 jenis minuman + tempat makan , paket mahal atas 200 5 jenis makan 3 jenis minuman + icecream + tempat makan"
+      
+    }
+     
    ]
 }
