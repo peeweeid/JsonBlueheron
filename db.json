@@ -91,29 +91,22 @@
     {
         "id" : 1,
         "nama" : "Paket Chatering",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketChatering.png",
-        "diskripsi" : " 
-                        •	Untuk 400 orang
-                        •	Nasi putih
-                        •	5 jenis sayuran
-                        •	2 jenis minuman
-                        •	Ice parade
-
-        "
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketChatering.png"
+    
         
     },
      {
         "id" : 2,
         "nama" : "Paket Ultah",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketUltah.png",
-        "diskripsi" : "Paket ultah nanti disediakan tempat untuk ultah dan ada hiburan badut serta dekor ultah sesuai request"
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketUltah.png"
+       
       
     },
       {
         "id" : 3,
         "nama" : "Paket Wedding",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketWedding.png",
-        "diskripsi" : "chatering wedding terdapat beberapa macam paket , paket murah 100 porsi 3 jenis makanan 1 minuman ,tempat makan, paket sedang untuk 200 porsi 4 jenis makanan 2 jenis minuman dan tempat makan , paket mahal atas 200 5 jenis makan 3 jenis minuman , icecream , tempat makan"
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketWedding.png"
+       
       
     }
      
