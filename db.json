@@ -96,7 +96,7 @@
         "paket" : [
                     "Paket A : Food Resto 1 , Drink 1",
                     "Paket B : Food Resto 2 , Drink 1",
-                    "Paket C : Food Resto 3 , Drink 1",
+                    "Paket C : Food Resto 3 , Drink 1"
                   ]
     },
      {
@@ -107,7 +107,7 @@
          "paket" : [
                     "Paket A : Ice Cream dan makan berat",
                     "Paket B : Kue Ultah dan Snack ",
-                    "Paket C : Minuman Soda dan Kue Ultah",
+                    "Paket C : Minuman Soda dan Kue Ultah"
                   ]
     },
       {
@@ -118,7 +118,7 @@
         "paket" : [
                     "Paket A : 4 jenis sayur , minum , no dessert ",
                     "Paket B : 4 jenis sayur , minum , desert ",
-                    "Paket C : 5 jenis sayur, 2 minum , desert",
+                    "Paket C : 5 jenis sayur, 2 minum , desert"
                   ]   
        
       
