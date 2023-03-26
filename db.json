@@ -91,21 +91,21 @@
     {
         "id" : 1,
         "nama" : "Paket Chatering",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketChatering.png"
-    
-        
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketChatering.png",
+        "diskripsi": "Paket Chatering dapat diorder selambatnya seminggu sebelum jadi , pastikan pembayaran serta diskripsi kamu tepat"
     },
      {
         "id" : 2,
         "nama" : "Paket Ultah",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketUltah.png"
-       
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketUltah.png",
+        "diskripsi": "Paket Ultah dapat diorder selambatnya seminggu sebelum jadi , pastikan pembayaran serta diskripsi kamu tepat"
       
     },
       {
         "id" : 3,
         "nama" : "Paket Wedding",
-        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketWedding.png"
+        "Image":"https://raw.githubusercontent.com/peeweeid/BahanBlueheron/main/image/paketWedding.png",
+        "diskripsi": "Paket Ultah dapat diorder selambatnya seminggu sebelum jadi , pastikan pembayaran serta diskripsi kamu tepat"
        
       
     }
